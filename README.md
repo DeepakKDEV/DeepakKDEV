@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Food Delivery](https://github.com/DeepakKDEV/FoodDelivery)
 
-- 🌱 I’m currently learning **javascript, JDevops**
+- 🌱 I’m currently learning **javascript, AwsDevops**
 
 - 👯 I’m looking to collaborate on **Html, CSS ,javascript, JDevops**
 
-- 🤝 I’m looking for help with **javascript, JDevops**
+- 🤝 I’m looking for help with **javascript, AwsDevops**
 
 - 💬 Ask me about **Java & Spring Boot**
 
